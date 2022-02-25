@@ -1,2 +1,2 @@
-# Misi-n-Frontend---JS
+# Misión Frontend JS
 Repositorio del programa Launch X
