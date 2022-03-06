@@ -1,8 +1,8 @@
 <h1>Misión Frontend JS</h1>
 
 <p>Repositorio del programa Launch X</p>
-Semana 1
-<p>Contenido: <br>
+Semana 1<br>
+Contenido:
 <ol>
   <li>- Toma de requerimientos </li>
   <li>- Buyer persona</li>
