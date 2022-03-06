@@ -11,10 +11,10 @@ Contenido:
   </b>
       Enlace en miro<br>
       Contiene wireframe para escritorio y para movil<br>
-      https://miro.com/app/board/uXjVOHvdE0M=/?invite_link_id=246921324354
+      https://miro.com/app/board/uXjVOHwRMpk=/?invite_link_id=686799564077
   <b><li>Interfaz de usuario</li></b>
       Enlace en miro<br>
-      Contiene wireframe para escritorio y para movil<br>
+      Contiene UI para escritorio y para movil<br>
       https://miro.com/app/board/uXjVOHvdE0M=/?invite_link_id=600918778266
 </ol>
 </p>
