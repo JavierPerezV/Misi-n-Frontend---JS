@@ -3,9 +3,11 @@ Repositorio del programa Launch X
 
 Contenido: 
   - Semana 1:
-    - Toma de requerimientos*
-    - Buyer persona*
-    - Público objetivo*
-    - Wireframe*
-    - Interfaz de usuario*
+    - Toma de requerimientos
+    - Buyer persona
+    - Público objetivo
+    - Wireframe
+    - Interfaz de usuario
+  - Semana 2:
+    - 
 
